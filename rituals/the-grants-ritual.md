@@ -1,3 +1,6 @@
+<!-- Title: The Grants Ritual -->
+<!-- Summary: Rituals for giving out grants -->
+
 :ritual:grant:
 
 # The Grants Ritual
