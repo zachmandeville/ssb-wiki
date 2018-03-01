@@ -16,7 +16,7 @@ Provide a space for SSB Adventurers to speak their dream for where SSB can go an
 
 ## Participants
 
-* [MC - Master of Ceremonies](//roles/mc)
+* [MC - Master of Ceremonies](/roles/mc)
 * [Noted Adventurers](/roles/noted-adventurers)
 * [Chosen Adventurers](/roles/chosen-adventurers) 
 * [Ritual Writers](/roles/ritual-writer)
