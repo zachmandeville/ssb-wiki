@@ -1,5 +1,6 @@
 <!-- Title: The Grants Ritual -->
 <!-- Subtitle: Rituals for giving out grants -->
+<!-- Tags: :zach-is-great: -->
 
 :ritual:grant:
 
