@@ -1,6 +1,6 @@
+<!--Title: The Ritual of Grant Offering -->
+<!--Subtitle: bring proposals together and decide upon a grant -->
 :ritual:grant:
-
-# The Ritual of Grant Offering
 
 ## Intention
 Create a space to discuss proposed grants for the month and then decide upon up to four to fund.  The intention of it being a ritual is to help keep this entire discussion positive, on-topic, and timely.
