@@ -24,7 +24,7 @@ Create a space to discuss proposed grants for the month and then decide upon up 
 * The ritual lasts until a set date.  This date is chosen by the MC for this month's ritual.  It generally is a week from when the ritual starts.  It is important to hold fast to this date, to make sure the ritual ends and all participants can stay grounded.
 
 # The Ritual
-* **Prior to the ritual, the MC begins a new Clarity Pad, following the [template](templates/clarity-pad)**
+* **Prior to the ritual, the MC begins a new Clarity Pad, following the [template](/templates/clarity-pad)**
   * This pad will be used to condense the conversation happening around the proposals into easy to read highlights and crucial points.  As such, it will be fairly empty upon its creation. 
 * **The MC starts the ritual by summoning a discussion thread and setting an intention**
   * Each month has it's own thread to discuss the various adventurer's proposals and ultimately come to a decision on which adventurers are chosen this month.
