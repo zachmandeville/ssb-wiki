@@ -6,17 +6,16 @@ It is important to remember that all of this is _in flux_ and unfinished, as tha
 
 ## Handy Introduction
 
-* [Inspiration for Rituals](introduction) - This is an introduction taken from an SSB thread for why establishing rituals is important!
+* [Inspiration for Rituals](inspiration-for-rituals) - This is an introduction taken from an SSB thread for why establishing rituals is important!
 
 ## Rituals
-* [The Grants Ritual](the-grants-ritual)
-  * [The Grant Discussion (ritual of grant offering)](ritual-of-the-grant-offering)
-  * [Journey of the Grant](journey-of-the-grant)
-  * [Celebrating the end of grants (ritual of homecoming)](ritual-of-homecoming)
-* [The Collaborators Call](the-collaborators-call)
-* [Ritual of Tips](ritual-of-tips)
+* [The Grants Ritual](/rituals/the-grants-ritual)
+  * [The Grant Discussion (/ritual of grant offering)](rituals/ritual-of-the-grant-offering)
+  * [Journey of the Grant](/rituals/journey-of-the-grant)
+  * [Celebrating the end of grants (ritual of homecoming)](/rituals/ritual-of-homecoming)
+* [The Collaborators Call](/rituals/the-collaborators-call)
+* [Ritual of Tips](/rituals/ritual-of-tips)
 
 ## Meta
-* [Index of pages, based on their tags](tag-index)
-* [How to Create a Ritual](how-to-create-a-ritual)
-* [The Lifecycle of a Ritual](lifecycle-of-a-ritual)
+* [How to Create a Ritual](/how-to-create-a-ritual)
+* [The Lifecycle of a Ritual](/lifecycle-of-a-ritual)

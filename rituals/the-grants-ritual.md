@@ -16,14 +16,14 @@ Provide a space for SSB Adventurers to speak their dream for where SSB can go an
 
 ## Participants
 
-* [MC - Master of Ceremonies](role_mc)
-* [Noted Adventurers](role_noted-adventurers)
-* [Chosen Adventurers](role_chosen-adventurers) 
-* [Ritual Writers](role_ritual-writer)
-* [Shapers](role_shaper)
-* [A consenting community](role_consenting-community)
-* [Adjudicator](role_adjudicator)
-* [Governor General](role_governor-general)
+* [MC - Master of Ceremonies](//roles/mc)
+* [Noted Adventurers](/roles/noted-adventurers)
+* [Chosen Adventurers](/roles/chosen-adventurers) 
+* [Ritual Writers](/roles/ritual-writer)
+* [Shapers](/roles/shaper)
+* [A consenting community](/roles/consenting-community)
+* [Adjudicator](/roles/adjudicator)
+* [Governor General](/roles/governor-general)
 
 ## Materials
 
@@ -33,9 +33,9 @@ The entire grants ritual is long, and made up of smaller rituals that make this 
 
 The Ritual is made up of three parts, each of them their own ritual.  You can click on each to go to their own ritual page:
 
-* [The Ritual of Grant Offering](ritual-of-the-grant-offering)
-* [Journey of the Grant](journey-of-the-grant)
-* [Ritual of Homecoming](ritual-of-homecoming)
+* [The Ritual of Grant Offering](/rituals/ritual-of-the-grant-offering)
+* [Journey of the Grant](/rituals/journey-of-the-grant)
+* [Ritual of Homecoming](/rituals/ritual-of-homecoming)
 
 You do not need to finish the entire grant ritual before you can start another one.  This is about drawing up energy from as many sides as possible to take us to as many places as possible. 
 

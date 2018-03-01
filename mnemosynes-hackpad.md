@@ -6,6 +6,6 @@ A hackmd document made for the easy remembering of an awesome meeting or thing t
 
 ## Mnemosyne's Templates 
 
-[[template_mnemosyne-hack-for-collaborators-call| Mnemosyne's Hack for Contributor Calls]]
+[[templates/mnemosyne-hack-for-collaborators-call| Mnemosyne's Hack for Contributor Calls]]
 
 

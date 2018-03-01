@@ -14,7 +14,7 @@ The thread will take on a new, unique shape each month but starts from the same 
 
 ### Template
 
-You can find a useful starting template for this initiatory post here: [Grant Discussion Thread Template](template_grant-discussion-thread)
+You can find a useful starting template for this initiatory post here: [Grant Discussion Thread Template](templates/grant-discussion-thread)
 
 ### Where it Lives
 

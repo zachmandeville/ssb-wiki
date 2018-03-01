@@ -2,7 +2,7 @@
 
 # Clarity Pad
 
-This is a collaborative document (most often a HackMD) that summarizes the current grant dicussion/decision, to make it easier for folks to parse the [grant discussion thread](grant-discussion-thread).  Since that thread is intended to be a lively conversation, it can be hard for newcomers (or even the current conversationalists) to understand where we are or what we're talking about.  That's where the clarity pad comes in!
+This is a collaborative document (most often a HackMD) that summarizes the current grant dicussion/decision, to make it easier for folks to parse the [grant discussion thread](/grant-discussion-thread).  Since that thread is intended to be a lively conversation, it can be hard for newcomers (or even the current conversationalists) to understand where we are or what we're talking about.  That's where the clarity pad comes in!
 
 ## Shape
 
@@ -21,7 +21,7 @@ Anyone can add or refine this, and it will act as a sort of summary for each mon
 
 ### Template
 
-There is a template available for this pad here: [Template: Clarity Pad](template_clarity-pad)
+There is a template available for this pad here: [Template: Clarity Pad](/templates/clarity-pad)
 
 
 ## Where it Lives

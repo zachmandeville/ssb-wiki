@@ -7,5 +7,5 @@ words,  The gathering follows a template that we've found helps these contributo
 The gathering itself should be made on ssb, using the ssb-gathering plugin.  This is accessible in Patchwork by clicking the More option.  In patchbay, you can find it by searching /gatherings.
    
 The template for the gathering can be found in this wiki here:
-[[template_collaborators-gathering-charm| Template]]
+[[templates/collaborators-gathering-charm| Template]]
 
