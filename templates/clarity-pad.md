@@ -3,10 +3,9 @@
 #Template: Clarity Pad
 
 _For background, read [our Clarity Pad page](clarity-pad)_
-_To copy this template, click the Raw button in the top right.  This will give you the raw markdown, which can be copy-pasted all easy-like into your own hackMD document._
 
 ----
-
+```
 # {Month Year} SSBC Grants
 
 _This is a versioned document intended to make it easier to keep an overview of the grants._
@@ -72,4 +71,4 @@ _A summary of the grants chosen, from up above_
 [] Update the decisions above
 [] Create an empty placeholder document for the next month and link to it here
 [] "Pass the parcel". Kick off process / discussion on SSB about who will manage this next month.
-
+```
