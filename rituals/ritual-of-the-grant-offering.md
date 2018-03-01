@@ -2,28 +2,28 @@
 <!--Subtitle: bring proposals together and decide upon a grant -->
 :ritual:grant:
 
-## Intention
+# Intention
 Create a space to discuss proposed grants for the month and then decide upon up to four to fund.  The intention of it being a ritual is to help keep this entire discussion positive, on-topic, and timely.
 
-## Participants
+# Participants
 * [Noted Adventurers](/roles/noted-adventurers), each with their own [adventurer's proposal](adventurers-proposal)
 * [MC](/roles/mc)
 * [Shaper](/roles/shaper)
 * [Adjudicator](/roles/adjudicator)
 * [A Consenting Community](/roles/consenting-community)
 
-## Materials
+# Materials
 * A [discussion thread](/grant-discussion-thread)
 * Multiple [Adventurer's Proposals](/adventurers-proposal)
 * A [Clarity Pad](/clarity-pad)
 * Good Will
 * Glasses of water and walking shoes
 
-## Time and Duration
+# Time and Duration
 * This ritual happens once a month, at the start of the month, as long as there are grants to give out.
 * The ritual lasts until a set date.  This date is chosen by the MC for this month's ritual.  It generally is a week from when the ritual starts.  It is important to hold fast to this date, to make sure the ritual ends and all participants can stay grounded.
 
-## The Ritual
+# The Ritual
 * **Prior to the ritual, the MC begins a new Clarity Pad, following the [template](templates/clarity-pad)**
   * This pad will be used to condense the conversation happening around the proposals into easy to read highlights and crucial points.  As such, it will be fairly empty upon its creation. 
 * **The MC starts the ritual by summoning a discussion thread and setting an intention**
