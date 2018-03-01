@@ -1,3 +1,5 @@
+<!-- Title: Welcome to the Scuttlebutt Wiki! -->
+<!-- Exploring the culture and rituals of the best network in the Chorus -->
 # SSB Rituals Wiki
 
 This is a spot to place our rituals as they develop, and to explore what it means.  You'll find many helpful resources and templates to use in your own community gardening.  
