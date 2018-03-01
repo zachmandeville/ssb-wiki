@@ -1,5 +1,5 @@
 <!-- Title: The Grants Ritual -->
-<!-- Summary: Rituals for giving out grants -->
+<!-- Subtitle: Rituals for giving out grants -->
 
 :ritual:grant:
 
