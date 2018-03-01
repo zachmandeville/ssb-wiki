@@ -2,6 +2,8 @@
 <!-- Subtitle: Exploring the culture and rituals of the best network in the Chorus -->
 # SSB Rituals Wiki
 
+![Gradient Hermies](/uploads/gradient-hermies.gif "Gradient Hermies")
+
 This is a spot to place our rituals as they develop, and to explore what it means.  You'll find many helpful resources and templates to use in your own community gardening.  
 
 It is important to remember that all of this is _in flux_ and unfinished, as that is the very nature of a wiki.  This is never meant to be final, as we are using the wiki to explore, along with archive.  So you may find "dead links" and other unfinished pages.  If so: help us finish them!
