@@ -10,7 +10,7 @@ It is important to remember that all of this is _in flux_ and unfinished, as tha
 
 ## Rituals
 * [The Grants Ritual](/rituals/the-grants-ritual)
-  * [The Grant Discussion (/ritual of grant offering)](rituals/ritual-of-the-grant-offering)
+  * [The Grant Discussion (ritual of grant offering)](rituals/ritual-of-the-grant-offering)
   * [Journey of the Grant](/rituals/journey-of-the-grant)
   * [Celebrating the end of grants (ritual of homecoming)](/rituals/ritual-of-homecoming)
 * [The Collaborators Call](/rituals/the-collaborators-call)
