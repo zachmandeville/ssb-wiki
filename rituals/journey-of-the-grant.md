@@ -1,3 +1,5 @@
+<!-- Title: Journey of the Grant -->
+<!-- Subtitle: The Path of the Noted Adventurer during their grant 'month' -->
 :ritual:grant:
 
 {TK-todo}
