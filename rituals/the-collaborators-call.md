@@ -11,7 +11,7 @@ To gather [[awesome-person| awesome people]] and [[elder-butt|elder butts]] toge
 These calls happen once a month, at the start of the month
 
 ## Materials
-* [[template_mnemosyne-hack-for-collaborators-call| Mnemosyne's Hack for Contributor Calls]]
+* [Mnemosyne's Hack for Contributor Calls](templates/mnemosyne-hack-for-collaborators-call)
 * A computer
 * A successfully cast [[summoning-for-the-collaborators-call|Summoning for the Contributor's Call]]
 * headphones
