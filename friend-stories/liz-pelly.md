@@ -1,7 +1,9 @@
+<!--Title: Liz Pelly -->
+<!-- Subtitle: Discussing healthy music communities and where technology could help. -->
 :friend-story
 # Liz Pelly
 
-## Background
+# Background
 
 Liz is a writer, musician, zinester, and community gardener living in New York.  She is a member of the Silent Barn collective, and helps run the incredible DIY venue Silent Barn.  It was there that I initially met her, at a show where her band Lizzyton 2000 played.  She also helps run the e-zine ['The Media'](http://fvckthemedia.com), which is an incredible source of news, reviews, help, and politics for the extended music community.
 
@@ -10,8 +12,8 @@ I wanted to talk to her, however, because of a series of articles she wrote abou
 * **[The Problem with Muzak: Spotify's Bid to Remodel an Industry](https://thebaffler.com/salvos/the-problem-with-muzak-pelly)**
 *  **[The Secret Life of Playlists](https://watt.cashmusic.org/writing/thesecretlivesofplaylists)**
 * **[On Resonate, a music streaming cooperative](https://shadowproof.com/2017/11/01/protest-platforms-resonate-streaming-co-op-agency-to-artists/)**
-* **[Protest Platforms: In the Age of Streaming, Saga Believes Artist should have more control](https://shadowproof.com/2017/12/19/protest-platforms-saga-believes-artists-should-have-more-control/)
-* **[On CASH Music's Open Source Tools for Artist](https://shadowproof.com/2018/02/08/protest-platforms-cash-music-navigate-corporate-exploitation/)
+* **[Protest Platforms: In the Age of Streaming, Saga Believes Artist should have more control](https://shadowproof.com/2017/12/19/protest-platforms-saga-believes-artists-should-have-more-control/)**
+* **[On CASH Music's Open Source Tools for Artist](https://shadowproof.com/2018/02/08/protest-platforms-cash-music-navigate-corporate-exploitation/)**
 
 ---
 
