@@ -1,8 +1,6 @@
 <!--Title: Liz Pelly -->
 <!-- Subtitle: Discussing healthy music communities and where technology could help. -->
 :friend-story
-# Liz Pelly
-
 # Background
 
 Liz is a writer, musician, zinester, and community gardener living in New York.  She is a member of the Silent Barn collective, and helps run the incredible DIY venue Silent Barn.  It was there that I initially met her, at a show where her band Lizzyton 2000 played.  She also helps run the e-zine ['The Media'](http://fvckthemedia.com), which is an incredible source of news, reviews, help, and politics for the extended music community.
@@ -21,7 +19,7 @@ Sweet, you're back!  And so I was, obviously, interested in Liz' views on the _f
 
 ##  The Discussion
 
-### What makes up a Scene
+## What makes up a Scene
 My first question was, "What makes up a healthy music community? What parts are needed?"  She quickly answered with a far lengthier list than I was expecting, which was:
 
 * Spaces to gather and perform that are accessible and participatory.
@@ -38,7 +36,7 @@ My first question was, "What makes up a healthy music community? What parts are 
 
 She voiced surprise at how long and varied of a list it ended up being.  She was speaking off the top of her head, and created a web of people all involved and necessary for punk rock.  I noticed that she didn't mention fans.  She said that Enthusiastic fans are important, of course, but they are inherent in all the thigns listed above because DIY is participatory.  Every above role is also a fan, but who wants to be a part of it in some way.  Even folks who are "just" enthusiastic fans and supporters of a scene end up helping with message boards, or starting their own zines, or bands.  While the term DIY has become hollowed out (much like the terms indie and punk before) at it's heart it stands for accessibility and participatory.  An independent music community offers you the ability to be more than a spectator.  So something like Silent Barn isn't just a diy space; a better descriptor would be a _collaboratively run space_.
 
-### How would technology support the scene?
+## How would technology support the scene?
 
 This is an idea we returned to throughout the conversation, but an encapsulation would be that technology should be:
 * modular
