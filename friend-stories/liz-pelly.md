@@ -17,7 +17,7 @@ I wanted to talk to her, however, because of a series of articles she wrote abou
 
 Sweet, you're back!  And so I was, obviously, interested in Liz' views on the _future_ of independent music.  I didn't want to talk about why the current models were bad, or how we could make a better alternative to spotify.  I wanted to speak far more generally and optimistically: in our optimistic future, how does technology augment a healthy music scene?  And so we met at Molasses Books this Monday to discuss!
 
-##  The Discussion
+# The Discussion
 
 ## What makes up a Scene
 My first question was, "What makes up a healthy music community? What parts are needed?"  She quickly answered with a far lengthier list than I was expecting, which was:
